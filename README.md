@@ -193,24 +193,6 @@ Tools / Agents
 
 Each stage will introduce a new Spring AI concept and build on the previous one.
 
-## 📖 Learning Resource
-
-This project follows concepts from the **Spring AI Tutorials** series by Learn Code With Durgesh.
-
-Current lesson:
-
-**Setup Spring AI Project with Free LLM — Ollama**
-
-YouTube playlist:
-
-https://www.youtube.com/playlist?list=PL0zysOflRCen1TeDUm-ebl9T-WbJygCGE
-
-Reference video:
-
-https://www.youtube.com/watch?v=-q2ky1EE69g
-
-The repository is my own implementation and learning workspace rather than a copy of the tutorial source code.
-
 ## 🔮 Future Improvements
 
 As I progress through Spring AI, this repository will be expanded with practical examples covering:
